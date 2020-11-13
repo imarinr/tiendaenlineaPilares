@@ -1,0 +1,27 @@
+body {
+    background-image: url("../img/melnychuk-nataliya-iuuOm3DtaoU-unsplash.jpg");
+    background-size: cover;
+}
+header {
+    background-color: white;
+}
+
+.menu {
+    background-color: white;
+    font-size: 2em;
+    display: inline;
+}
+
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu ul li {
+    display: inline;
+}
+.menu ul li a {
+    text-decoration: none;
+    color: black;
+}
